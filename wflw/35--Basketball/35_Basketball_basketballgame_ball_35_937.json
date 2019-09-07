@@ -1,0 +1,1318 @@
+{
+ "version": "3.16.7",
+ "flags": {},
+ "shapes": [
+  {
+   "label": "box",
+   "line_color": [
+    0,
+    255,
+    0,
+    255
+   ],
+   "fill_color": null,
+   "points": [
+    [
+     212,
+     186
+    ],
+    [
+     308,
+     314
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     210,
+     230
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     209,
+     237
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     209,
+     244
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     208,
+     251
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     209,
+     258
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     210,
+     265
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     211,
+     272
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     214,
+     279
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     217,
+     285
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     221,
+     291
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     225,
+     297
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     230,
+     302
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     234,
+     308
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     239,
+     313
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     244,
+     317
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     251,
+     321
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     258,
+     322
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     263,
+     321
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     269,
+     317
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     272,
+     313
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     275,
+     308
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     278,
+     303
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     282,
+     298
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     285,
+     293
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     289,
+     288
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     293,
+     284
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     297,
+     280
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     301,
+     275
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     303,
+     270
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     304,
+     264
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     303,
+     258
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     303,
+     252
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     304,
+     246
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     234,
+     230
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     244,
+     225
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     254,
+     226
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     264,
+     228
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     272,
+     232
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     272,
+     236
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     263,
+     232
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     254,
+     229
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     244,
+     228
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     290,
+     234
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     294,
+     233
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     298,
+     232
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     302,
+     231
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     306,
+     233
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     302,
+     234
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     298,
+     235
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     294,
+     236
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     289,
+     237
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     279,
+     246
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     279,
+     256
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     280,
+     267
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     280,
+     278
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     261,
+     276
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     268,
+     278
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     274,
+     282
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     282,
+     282
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     288,
+     278
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     244,
+     243
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     249,
+     240
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     255,
+     240
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     260,
+     242
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     264,
+     246
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     258,
+     247
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     253,
+     247
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     248,
+     246
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     285,
+     248
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     290,
+     244
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     296,
+     244
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     299,
+     246
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     302,
+     248
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     299,
+     250
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     296,
+     251
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     290,
+     250
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     244,
+     283
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     257,
+     287
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     270,
+     288
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     274,
+     289
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     277,
+     289
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     284,
+     287
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     282,
+     292
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     280,
+     298
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     275,
+     303
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     268,
+     304
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     258,
+     300
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     250,
+     293
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     245,
+     284
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     259,
+     288
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     273,
+     290
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     277,
+     291
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     281,
+     291
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     276,
+     298
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     269,
+     300
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     256,
+     294
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     252,
+     242
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  },
+  {
+   "label": "point",
+   "line_color": null,
+   "fill_color": null,
+   "points": [
+    [
+     292,
+     246
+    ]
+   ],
+   "shape_type": "point",
+   "flags": {}
+  }
+ ],
+ "lineColor": [
+  0,
+  255,
+  0,
+  128
+ ],
+ "fillColor": [
+  255,
+  0,
+  0,
+  128
+ ],
+ "imagePath": "35_Basketball_basketballgame_ball_35_937.jpg",
+ "imageData": null,
+ "imageHeight": 682,
+ "imageWidth": 1024
+}
